@@ -166,6 +166,21 @@ body {
       max-width: 90%; /* Pour les écrans plus petits, occuper 90% de la largeur */
     }
   }
+
+.button-vol {
+    background-color: #ff6600;
+    color: white;
+    padding: 12px 24px;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    transition: background-color 0.3s ease;
+}
+
+.button-vol:hover {
+    background-color: #e65c00;
+}
   
   
   
